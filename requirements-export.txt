@@ -1,0 +1,13 @@
+# Conversão ONNX -> TensorFlow SavedModel -> TF.js
+# Instale no mesmo venv depois do treino, ou rode:
+#   python pipeline.py --stage export --install-deps
+
+onnx
+onnxruntime
+onnxscript
+onnxsim
+onnx2tf
+tensorflow
+tf_keras
+tensorflowjs>=4.22
+tensorflow-hub>=0.16.1

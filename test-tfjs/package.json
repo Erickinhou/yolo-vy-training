@@ -1,0 +1,12 @@
+{
+  "name": "test-tfjs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test-model.mjs"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "sharp": "^0.33.5"
+  }
+}

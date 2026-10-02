@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+yolov7/
+dino-dataset/
+*.zip
+*.pt
+*.onnx
+*.tar.gz
+
+runs/
+.idea/
+.vscode/
+test-tfjs/node_modules/
+test-tfjs/out/

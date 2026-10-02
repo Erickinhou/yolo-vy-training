@@ -1,0 +1,20 @@
+# Dependências de treino / eval / reparam (Python 3.10–3.12)
+# Prefira: python pipeline.py --install-deps
+# Isso instala yolov7/requirements.txt depois do clone.
+
+matplotlib>=3.8
+numpy>=1.26,<2.0
+opencv-python>=4.9
+Pillow>=10.2
+PyYAML>=6.0
+requests>=2.31
+scipy>=1.11
+torch>=2.2
+torchvision>=0.17
+tqdm>=4.66
+protobuf>=4.25
+tensorboard>=2.16
+pandas>=2.1
+seaborn>=0.13
+psutil
+thop
